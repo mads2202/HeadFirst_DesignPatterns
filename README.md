@@ -7,3 +7,5 @@
 На первый взгляд это похожие алгоритмы, но не совместимые.
 Для решения этой проблемы мы создадим абстрактный класс Beverage с методами prepare (), pourWater(), putCondiments(), addToppings(). 
 Причем последние 2 метода будут абстрактными, т. к. нам необходимо их переопределить в наших классах Tea и Coffee.
+
+![template](https://user-images.githubusercontent.com/56963305/148892951-eb402c3c-e4a0-4daf-b976-4dab752495ca.png)
